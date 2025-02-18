@@ -1,3 +1,4 @@
 # PLANETS
 
-![ScreenshotMoon](https://github.com/user-attachments/assets/95fd9615-ccc8-4d38-94f3-93b9bbf4e8f8)
+
+![ScreenshotMars](https://github.com/user-attachments/assets/9d5d2a74-5802-49a8-ac97-50d1cebf259a)
